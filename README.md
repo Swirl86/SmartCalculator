@@ -1,6 +1,6 @@
 # SmartCalculator
 
-Projekt utfört på https://hyperskill.org/. Simpelt Java program för spelet Budget Manager.
+Projekt utfört på https://hyperskill.org/. Simpelt Java program för Budget Manager.
 
 
 * user-friendly menu for your program.
